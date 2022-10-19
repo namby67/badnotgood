@@ -1,0 +1,92 @@
+.textlb{
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 60px;
+     font-size: 20px;
+}
+ .select{
+    margin-left:60px;
+    width: 194px;
+    height: 28px;
+    margin-top: 30px;
+    border: 2px solid #000;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .textlb2{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+ }
+ .rowimg1{
+   width: auto;
+   height: auto;
+   margin-left: 24px;
+   margin-right: 10px;
+   margin-bottom: -200px;
+ }
+ #mainmenu{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding-left: 0px;
+    margin-left: 23px;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1px solid #000;
+    width: 300px;
+    height: 30px;
+    ;
+   
+
+}
+
+.textpl{
+    margin-top: -11px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#mainmenu li{
+    position: relative;
+ 
+}
+#mainmenu li a{
+     display: block;
+     padding: 18px  10px  ;
+     color: #000;
+     text-decoration: none;
+   
+}
+#mainmenu ul.mainmenusblb{
+    position: absolute;
+    padding: 15px 0px ;
+    list-style: none;
+    width: 300px;
+    display: none;
+    font-size: 15px;
+
+}
+#mainmenu li:hover ul.mainmenusblb{
+    display: block;
+}
+#mainmenu ul.mainmenusblb a{
+    padding: 8px 15px ;
+    background-color: #fff;
+   
+  
+}
+.mainmenusblb{
+    border-left: #000 1px solid; ;
+    border: #000 1px solid;
+    margin-bottom: 24px;
+    background-color: #fff;
+   border-top: none;
+    margin-left: -1px;
+ 
+}
+.namepros{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 23px;
+    margin-bottom: 40px;
+}

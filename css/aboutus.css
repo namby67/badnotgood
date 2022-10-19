@@ -1,0 +1,23 @@
+#text1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.aboutusbl{
+    display: block;
+     margin-left: auto; 
+     margin-right: auto;
+    
+}
+#text2{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom: -200px;
+}
+.aboutusall{
+    margin-top: -180px
+}

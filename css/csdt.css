@@ -1,0 +1,24 @@
+#text3{
+    text-align: left;
+    margin-left: 30px;
+    margin-bottom: 200px;
+}
+.text4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.text5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.text6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px
+}
+.text45{
+    display: flex;
+}
+.hinhd{
+    margin-bottom: -200px;
+    margin-top: -150px;
+}

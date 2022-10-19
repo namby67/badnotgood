@@ -1,0 +1,56 @@
+
+.imgaddpro{
+    max-width: 740px;
+    height: auto;
+    margin-left: 50px;
+}
+.addproduct{
+    display: flex ;
+
+    margin: 30px ;
+    padding: 10px;
+    width: 10px;
+   
+   
+    padding: 10px;
+}
+  
+.textadd{
+    width: 380px;
+    height: 800px;
+    margin-top: 60px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 40px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.title{
+    width: 880px;
+    height: 20px;
+}
+.costpro{
+margin-top: 10px;
+margin-bottom: 10px;
+border-bottom: 1px dotted #111;
+border-top:  1px dotted #111 ;
+padding: 3px ;
+padding-bottom: 8px;
+}
+.salept{
+background-color: #99ccff;
+color: #111;
+font-size: 12px;
+font-weight: 600;
+padding: 5px 15px;
+}
+.costnow{
+    color: red;
+    font-size: 18px;
+    
+}
+.costbefore{
+    font-size: 10px;
+    background-color: transparent;
+}

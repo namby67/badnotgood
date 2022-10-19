@@ -1,0 +1,130 @@
+body{
+    max-width: 100%;
+    height: auto;
+}
+.header{
+    display: flex;
+}
+.logo{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+   
+}
+
+.tk{
+    text-align: right;
+    margin-right: 30px;
+
+}
+.tk2{
+    text-align: right;
+   width: 160px;
+   height: 30px;
+    background: #fff;
+    border: none;
+    border-bottom: 2px solid #000;
+    
+}
+.search{
+  
+   text-align: right;
+}
+.container{
+    max-width: 960px;
+    margin: 0px auto;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display: flex;
+    max-width: 50px;
+    height: auto;
+    justify-content: center;
+}
+#main-menu{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+
+}
+#main-menu li{
+    position: relative;
+    
+}
+#main-menu li a{
+     display: block;
+     padding: 18px  10px  ;
+     color: black;
+     text-decoration: none;
+  
+}
+#main-menu ul.sub-menu{
+    position: absolute;
+    padding: 15px 0px ;
+    list-style: none;
+    width: 300px;
+    display: none;
+    font-size: 18px;
+
+}
+#main-menu li:hover ul.sub-menu{
+    display: block;
+   
+}
+#main-menu ul.sub-menu a{
+    padding: 8px 15px ;
+    background-color: #fff;
+  
+}
+ .hinhd{
+  text-align: center;
+  margin-top: 180px;
+  margin-bottom: 20px;
+  
+ 
+ }
+ .hinhdl{
+    text-align: center;
+
+ }
+ #drop{
+  
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 50px;
+     text-align: center;
+     margin-top: -60px;
+
+ }
+ .product{
+   width: 890px;
+   height: 2690px;
+    display: flex;
+    margin-left: 140px;
+
+ }
+ .luuy{
+    width: 700px;
+    height: 437px;
+    margin-left: 200px;
+ }
+ .gach{
+    border-top: 1px solid #000;
+    margin-top: 200px;
+
+ }
+.subtit{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
+.right{
+   margin-left: 925px;
+   text-align: right;
+}
+.left{
+    margin-left: 20px;
+}
+
